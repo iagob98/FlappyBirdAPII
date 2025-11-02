@@ -729,10 +729,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a7412e8c3804fa48bb09e238f6e7b5e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  canoPrefab: {fileID: 0}
+  canoPrefab: {fileID: 1886969313709387330, guid: b1d3e22231738fd48a375c9b06bd9b93, type: 3}
   tempoSpawn: 3
   alturaMin: -2
   alturaMax: 2
+  aberturaInicial: 5
+  aberturaMinima: 2.5
+  tempoParaAberturaMinima: 60
 --- !u!4 &2051177462
 Transform:
   m_ObjectHideFlags: 0
